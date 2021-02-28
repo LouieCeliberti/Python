@@ -1,0 +1,1 @@
+print("qertervst\nd\t\tw\ns\t\tf\nk\t\ta\nc\t\tm \nlhhhkgyxt")
